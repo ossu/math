@@ -79,7 +79,7 @@ just remember that you can't purchase success!
 - [Book of Proofs](https://www.people.vcu.edu/~rhammack/BookOfProof/) ([Assessments](http://www.people.vcu.edu/~rhammack/math300/tests/index.html))
 - [Real Analysis](http://analysisyawp.blogspot.com/)
 - [Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) ([Assignments](https://canvas.harvard.edu/courses/30943/assignments)) ([Solutions](https://canvas.harvard.edu/courses/30943/pages/homework-solutions))
-- Topology (**TODO**)
+- [Topology](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx) ([Textbook with Assignments](https://www.goodreads.com/book/show/116418.Topology)) ([Solutions](https://dbfin.com/topology/munkres/))
 - [Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 - [Statistics](https://www.edx.org/course/fundamentals-of-statistics)
 - Applications (**TODO**)
