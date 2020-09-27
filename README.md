@@ -121,11 +121,11 @@ Courses | Duration | Effort | Prerequisites
 ### Differential Equations
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-Introduction to Differential Equations | 14 weeks | 3-6 hours/week | Calculus 1C
-Differential Equations: 2x2 Systems | 8 weeks | 2-5 hours/week | Introduction to Differential Equations
-Differential Equations: Linear Algebra and NxN Systems of Differential Equations | 12 weeks | 5-8 hours/week | Differential Equations 2x2 Systems, Linear Algebra
-Differential Equations: Fourier Series and Partial Differential Equations | 11 weeks | 5-8 hours/week | Differential Equations: Linear Algebra and NxN Systems of Differential Equations
-Transfer Functions and the Laplace Transform | 10 weeks | 3-6 hours/week | Introduction to Differential Equations 
+[Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2) | 14 weeks | 3-6 hours/week | Calculus 1C
+[Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems) | 8 weeks | 2-5 hours/week | Introduction to Differential Equations
+[Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst) | 12 weeks | 5-8 hours/week | Differential Equations 2x2 Systems, Linear Algebra
+[Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial) | 11 weeks | 5-8 hours/week | Differential Equations: Linear Algebra and NxN Systems of Differential Equations
+[Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) | 10 weeks | 3-6 hours/week | Introduction to Differential Equations 
 
 ## Mathematical Logic
 These courses should include logic, set theory, number theory, and proofs
