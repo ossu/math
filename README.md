@@ -84,6 +84,65 @@ just remember that you can't purchase success!
 - [Statistics](https://www.edx.org/course/fundamentals-of-statistics)
 - Applications (**TODO**)
 
+## Introductory Mathematics
+
+### Introduction to Mathematical Thinking
+Most people's views of mathematics are destroyed in school by focusing on memorzation and regurgitation. Mathematics is anything but. This class covers how to think like a mathematician and solve problems. 
+
+**Topics covered:**
+`Mathematical mindset`
+`Number Theory`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
+
+### Calculus 
+Calculus is the foundation of our world, explaining the phenomena that underly our technology, our planets, and our hearts. 
+
+**Topics Covered:**
+`Derivatives`
+`Integrals`
+`Infinity`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 13 weeks | 6-10 hours/week | high school math
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 13 weeks | 5-10 hours/week | Calculus 1A 
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | 6 weeks | 5-10 hours/week | Calculus 1B
+[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
+
+### Linear Algebra
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | high school math
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra
+
+### Differential Equations
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2) | 14 weeks | 3-6 hours/week | Calculus 1C
+[Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems) | 8 weeks | 2-5 hours/week | Introduction to Differential Equations
+[Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst) | 12 weeks | 5-8 hours/week | Differential Equations 2x2 Systems, Linear Algebra
+[Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial) | 11 weeks | 5-8 hours/week | Differential Equations: Linear Algebra and NxN Systems of Differential Equations
+[Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) | 10 weeks | 3-6 hours/week | Introduction to Differential Equations 
+
+## Mathematical Logic
+These courses should include logic, set theory, number theory, and proofs
+
+## Geometry
+Classical Geometry, Euclidian and non-Euclidian, introductory topology?
+
+## Probability and Statistics
+Combinatorics, probability, statistics, game theory, applied stats
+
+## Mathematical Analysis
+Real analysis, numerical analysis, complex analysis, optimization theory
+
+## Abstract Algebra
+Abstract algebra, category theory, algebraic geometry and topology
+
+
 ## Congratulations
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Mathematics. Congratulations!
