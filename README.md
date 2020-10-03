@@ -50,7 +50,8 @@ just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 - For simplicity, we recommend working through courses in order from top to bottom, as they have already been sorted by their prerequisites.
-- Courses in Applications are electives. Choose one subject you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
+- Courses in Core Mathematics are the basic requirements for all OSSU Math students, and provide a foundation for deeper study. Take all of these courses.
+- Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Respect the code of conduct that you sign in the beginning of each course!*
@@ -84,10 +85,22 @@ just remember that you can't purchase success!
 - [Statistics](https://www.edx.org/course/fundamentals-of-statistics)
 - Applications (**TODO**)
 
-## Introductory Mathematics
+## Core Mathematics
+
+All OSSU Math students need to take all of these courses. Subjects include:
+
+- Introduction to Mathematical Thinking
+- Single-Variable Calculus
+- Multi-Variable Calculus
+- Introduction to Differential Equations
+- Discrete Math
+- Linear Algebra
+- Probability & Statistics
+- Intro to Analysis
+
 
 ### Introduction to Mathematical Thinking
-Most people's views of mathematics are destroyed in school by focusing on memorzation and regurgitation. Mathematics is anything but. This class covers how to think like a mathematician and solve problems. 
+Most people's views of mathematics are destroyed in school by focusing on memorization and regurgitation. But mathematicians see math as an elegant way to explain the world around us. This class covers how to think like a mathematician and solve problems. 
 
 **Topics covered:**
 `Mathematical mindset`
@@ -98,7 +111,7 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
 
 ### Calculus 
-Calculus is the foundation of our world, explaining the phenomena that underly our technology, our planets, and our hearts. 
+Calculus is the study of infinity. As the cornerstone of geometry and physics, it serves as the foundation of our world, explaining the phenomena that underly our technology, our planets, and our hearts. 
 
 **Topics Covered:**
 `Derivatives`
@@ -112,34 +125,108 @@ Courses | Duration | Effort | Prerequisites
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | 6 weeks | 5-10 hours/week | Calculus 1B
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
 
+### Introduction to Differential Equations
+Differential equations describe the science of change: the route by which natural and man-made systems move from one state to another. Epidemics, population growth, and weather patterns are all modeled using differential equations.
+
+**Topics covered:**
+`First-order ODEs`
+`Second-order ODEs`
+`Higher-order ODEs`
+`Laplace Transforms`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2) | 14 weeks | 3-6 hours/week | Calculus 1C
+
+### Discrete Mathematics
+Discrete mathematics is the mathematics of objects and ideas. The topics discussed here also form the basis of the field of computer science. For mathematics majors, a discrete math course is usually also a first introduction to formal proofs. 
+
+**Topics covered:**
+`Counting`
+`Grouping`
+`Classifying`
+`Logic and Reasoning`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | 14 weeks | 6-8 hours/week | Calculus 1C
+
 ### Linear Algebra
+Linear algebra is the mathematics of spatial relationships. It provides an elegant way to consider many simultaneous equations, to visualize arbitrarily-many dimensions, and to explain complex phenomena in simple terms.
+
+**Topics covered:**
+`Vector and matrix calculations`
+`Linear transformations`
+`Vector spaces`
+`Eigenvalues and Eigenvectors`
+
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | high school math
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra
 
+### Probability & Statistics
+Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
+
+**Topics covered:**
+`Random variables`
+`Expectation and Variance`
+`Probability Distributions`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Linear Algebra, Math for Computer Science
+[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
+
+### Introduction to Analysis
+Analysis is the mathematics of mathematics itself. Analysis makes extensive use of the formal proof to build important mathematical concepts from the ground up. Starting by proving the existence of real numbers, this course will show you how to create single-variable calculus entirely from scratch.
+
+**Topics covered:**
+`Proofs`
+`Real analysis`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Analysis](https://ocw.mit.edu/courses/mathematics/18-100a-introduction-to-analysis-fall-2012/) | 14 weeks | 8-10 hours/week | Multivariable Calculus
+[Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
+
+## Advanced Topics
+
+Once you've completed all courses in Core Mathematics, you are free to take elective courses in Advanced Topics, which include:
+
+- Differential Equations
+- Mathematical Logic
+- Geometry
+- Probability and Statistics
+- Mathematical Analysis
+- Abstract Algebra
+
+To complete your study of Advanced Topics, complete both the Breadth requirement and the Depth requirement.
+
+- **Breadth Requirement:** For each of the 6 Advanced Topics below, select one course to take as an elective.
+- **Depth Requirement:** Select one Advanced Topic below and take 3 additional courses from that topic. 
+
 ### Differential Equations
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2) | 14 weeks | 3-6 hours/week | Calculus 1C
 [Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems) | 8 weeks | 2-5 hours/week | Introduction to Differential Equations
 [Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst) | 12 weeks | 5-8 hours/week | Differential Equations 2x2 Systems, Linear Algebra
 [Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial) | 11 weeks | 5-8 hours/week | Differential Equations: Linear Algebra and NxN Systems of Differential Equations
 [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) | 10 weeks | 3-6 hours/week | Introduction to Differential Equations 
 
-## Mathematical Logic
+### Mathematical Logic
 These courses should include logic, set theory, number theory, and proofs
 
-## Geometry
+### Geometry
 Classical Geometry, Euclidian and non-Euclidian, introductory topology?
 
-## Probability and Statistics
+### Probability and Statistics
 Combinatorics, probability, statistics, game theory, applied stats
 
-## Mathematical Analysis
+### Mathematical Analysis
 Real analysis, numerical analysis, complex analysis, optimization theory
 
-## Abstract Algebra
+### Abstract Algebra
 Abstract algebra, category theory, algebraic geometry and topology
 
 
