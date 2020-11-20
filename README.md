@@ -218,7 +218,12 @@ Courses | Duration | Effort | Prerequisites
 These courses should include logic, set theory, number theory, and proofs
 
 ### Geometry
-Classical Geometry, Euclidian and non-Euclidian, introductory topology?
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introductory Geometry Textbook](https://mphitchman.com/) | ? | ? | Set Theory
+[Topology](http://ctrl-c.club/~ivan/327/?resources) | 19 weeks | ? | Set Theory
+[Differential Geometry Lectures](https://www.youtube.com/watch?v=RW5lJiKZHd8&list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl) | ? | ? | Topology
+
 
 ### Probability and Statistics
 Combinatorics, probability, statistics, game theory, applied stats
