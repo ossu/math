@@ -71,19 +71,9 @@ just remember that you can't purchase success!
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
 # Curriculum
-
-- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
-- [Single Variable Calculus](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
-- [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-- [Differential Equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
-- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-- [Book of Proofs](https://www.people.vcu.edu/~rhammack/BookOfProof/) ([Assessments](http://www.people.vcu.edu/~rhammack/math300/tests/index.html))
-- [Real Analysis](http://analysisyawp.blogspot.com/)
-- [Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) ([Assignments](https://canvas.harvard.edu/courses/30943/assignments)) ([Solutions](https://canvas.harvard.edu/courses/30943/pages/homework-solutions))
-- [Topology](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx) ([Textbook with Assignments](https://www.goodreads.com/book/show/116418.Topology)) ([Solutions](https://dbfin.com/topology/munkres/))
-- [Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
-- [Statistics](https://www.edx.org/course/fundamentals-of-statistics)
-- Applications (**TODO**)
+The curriculum is separated into two parts:
+- [Core Mathematics](#core-mathematics)
+- [Advanced Topics](#advanced-topics)
 
 ## Core Mathematics
 
