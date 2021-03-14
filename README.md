@@ -2,15 +2,7 @@
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
-  Path to a free self-taught education in Computer Science!
-</p>
-<p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-  </a>
-  <a href="https://github.com/ossu/computer-science">
-	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
-  </a>
+  Path to a free self-taught education in Math!
 </p>
 
 # Contents
@@ -29,7 +21,7 @@ and for those who have the discipline, will, and good habits to obtain this educ
 but with support from a worldwide community of fellow learners.
 
 It is designed according to the degree requirements of undergraduate math majors, minus general education (non-math) requirements,
-as it is assumed most of the people following this curriculum are already educated outside the field of CS.
+as it is assumed most of the people following this curriculum are already educated outside the field of math.
 The courses themselves are among the very best in the world, often coming from Harvard, MIT, Stanford, etc.,
 but specifically chosen to meet the following criteria.
 
@@ -62,8 +54,8 @@ just remember that you can't purchase success!
 
 # Community
 
-- We have a Discord server! This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the CS channel in OSSU Discord](https://discord.gg/5pUhfpX)
-- You can also interact through [GitHub issues](https://github.com/ossu/computer-science/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
+- We have a Discord server! This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/5pUhfpX)
+- You can also interact through [GitHub issues](https://github.com/ossu/math/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 
