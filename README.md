@@ -197,7 +197,9 @@ Courses | Duration | Effort | Prerequisites
 [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) | 10 weeks | 3-6 hours/week | Introduction to Differential Equations 
 
 ### Mathematical Logic
-These courses should include logic, set theory, number theory, and proofs
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 45 hours/week | -
 
 ### Geometry
 Classical Geometry, Euclidian and non-Euclidian, introductory topology?
