@@ -199,7 +199,7 @@ Courses | Duration | Effort | Prerequisites
 ### Mathematical Logic
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 4-5 hours/week | -
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
 
 ### Geometry
 Classical Geometry, Euclidian and non-Euclidian, introductory topology?
