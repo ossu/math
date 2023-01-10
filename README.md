@@ -94,7 +94,7 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
 
 ### Calculus 
-Calculus is the study of infinity. As the cornerstone of geometry and physics, it serves as the foundation of our world, explaining the phenomena that underly our technology, our planets, and our hearts. 
+Calculus is the study of change and accumulation of quantities, specifically rates of change and the properties of functions. As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an important role in modern technology, scientific discovery, and many fields including engineering, economics, and medicine.
 
 **Topics Covered:**
 `Derivatives`
