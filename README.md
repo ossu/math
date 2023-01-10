@@ -162,7 +162,7 @@ Courses | Duration | Effort | Prerequisites
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
 
 ### Introduction to Analysis
-Analysis is the mathematics of mathematics itself. Analysis makes extensive use of the formal proof to build important mathematical concepts from the ground up. Starting by proving the existence of real numbers, this course will show you how to create single-variable calculus entirely from scratch.
+Intro to Analysis is a course that builds on the concepts of Calculus and provides a rigorous and formalized study of the foundations of Calculus. This course will cover advanced mathematical concepts and will use formal proofs to establish mathematical results. Starting by proving the existence of real numbers, this course will take a foundational approach and will build the foundation of single-variable Calculus from scratch.
 
 **Topics covered:**
 `Proofs`
