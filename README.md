@@ -179,7 +179,7 @@ Courses | Duration | Effort | Prerequisites
 [Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
 
 ### Introduction to Abstract Algebra
-Abstract algebra (occasionally called modern algebra) is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras. Abstract algebra was coined in the early 20th century to distinguish this area of study from older parts of algebra, more specifically, from elementary algebra, using variables to represent numbers in computation and reasoning.
+Abstract algebra (occasionally called modern algebra) is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras. Abstract algebra was coined in the early 20th century to distinguish this area of study from older parts of algebra, more specifically from elementary algebra, using variables to represent numbers in computation and reasoning.
 
 **Topics covered:**
 `Group Theory`
