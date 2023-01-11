@@ -163,7 +163,7 @@ Probability is the mathematics of uncertainty. Statistics is the mathematical fr
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Linear Algebra, [Math for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+[Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Linear Algebra, Math for Computer Science
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
 
 ### Introduction to Analysis
@@ -216,7 +216,7 @@ Courses | Duration | Effort | Prerequisites
 ### Geometry and Topology
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | Set Theory, Mathematical Matturity in Algebra and Geometry
+[Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | Set Theory, Mathematical Maturity in Algebra and Geometry
 [Euclidean plane and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 14 weeks | 4-6 hours/week | Elementary Set Theory, Calculus 1c, Linear Algebra
 [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 14 weeks | 14 hours/week | Multivariable Calculus
 [Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
