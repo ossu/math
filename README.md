@@ -42,7 +42,7 @@ just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 - For simplicity, we recommend working through courses in order from top to bottom, as they have already been sorted by their prerequisites.
-- Courses in Core Mathematics are the basic requirements for all OSSU Math students, and provide a foundation for deeper study. Take all of these courses.
+- Courses in Core Mathematics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
 - Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
@@ -55,7 +55,7 @@ just remember that you can't purchase success!
 # Community
 
 - We have a Discord server! This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/5pUhfpX)
-- You can also interact through [GitHub issues](https://github.com/ossu/math/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
+- You can also interact through [GitHub issues](https://github.com/ossu/math/issues). If there is a problem with a course or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 
@@ -63,24 +63,29 @@ just remember that you can't purchase success!
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
 # Curriculum
-The curriculum is separated into two parts:
-- [Core Mathematics](#core-mathematics)
-- [Advanced Topics](#advanced-topics)
 
+The curriculum is separated into two parts:
+
+- [Core Mathematics](#core-mathematics)
+  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
+  - [Calculus](#calculus)
+  - [Introduction to Differential Equations](#introduction-to-differential-equations)
+  - [Discrete Mathematics](#discrete-mathematics)
+  - [Linear Algebra](#linear-algebra)
+  - [Probability & Statistics](#probability--statistics)
+  - [Introduction to Analysis](#introduction-to-analysis)
+  - [Introduction to Abstract Algebra](#introduction-to-abstract-algebra)
+- [Advanced Topics](#advanced-topics)
+  - [Differential Equations](#differential-equations)
+  - [Mathematical Logic](#mathematical-logic)
+  - [Geometry and Topology](#geometry-and-topology)
+  - [Probability and Statistics](#probability-and-statistics)
+  - [Mathematical Analysis](#mathematical-analysis)
+  - [Abstract Algebra](#abstract-algebra)
+  
 ## Core Mathematics
 
-All OSSU Math students need to take all of these courses. Subjects include:
-
-- Introduction to Mathematical Thinking
-- Single-Variable Calculus
-- Multi-Variable Calculus
-- Introduction to Differential Equations
-- Discrete Math
-- Linear Algebra
-- Probability & Statistics
-- Intro to Analysis
-- Intro to Abstract Algebra
-
+All classes under Core Mathematics are **required**, unless stated otherwise.
 
 ### Introduction to Mathematical Thinking
 Most people's views of mathematics are destroyed in school by focusing on memorization and regurgitation. But mathematicians see math as an elegant way to explain the world around us. This class covers how to think like a mathematician and solve problems. 
@@ -94,7 +99,7 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
 
 ### Calculus 
-Calculus is the study of infinity. As the cornerstone of geometry and physics, it serves as the foundation of our world, explaining the phenomena that underly our technology, our planets, and our hearts. 
+Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.
 
 **Topics Covered:**
 `Derivatives`
@@ -103,13 +108,13 @@ Calculus is the study of infinity. As the cornerstone of geometry and physics, i
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | high school math
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | Calculus 1A 
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | Calculus 1B
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
 
 ### Introduction to Differential Equations
-Differential equations describe the science of change: the route by which natural and man-made systems move from one state to another. Epidemics, population growth, and weather patterns are all modeled using differential equations.
+Differential equations describe the science of change: the route by which natural and man-made systems move from one state to another. Epidemics, population growth, and weather patterns are all modeled using differential equations. It provides us a mathematical language to describe physical, chemical, and biological systems and their evolution.
 
 **Topics covered:**
 `First-order ODEs`
@@ -122,7 +127,7 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2) | 14 weeks | 3-6 hours/week | Calculus 1C
 
 ### Discrete Mathematics
-Discrete mathematics is the mathematics of objects and ideas. The topics discussed here also form the basis of the field of computer science. For mathematics majors, a discrete math course is usually also a first introduction to formal proofs. 
+Discrete mathematics is the mathematics of objects and ideas. It includes topics such as combinatorics, graph theory, and logic. The topics discussed here also form the basis of the field of computer science. For mathematics majors, a discrete math course is usually also a first introduction to formal proofs. 
 
 **Topics covered:**
 `Counting`
@@ -135,7 +140,7 @@ Courses | Duration | Effort | Prerequisites
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | 14 weeks | 6-8 hours/week | Calculus 1C
 
 ### Linear Algebra
-Linear algebra is the mathematics of spatial relationships. It provides an elegant way to consider many simultaneous equations, to visualize arbitrarily-many dimensions, and to explain complex phenomena in simple terms.
+Linear algebra is the mathematics of spatial relationships that deals with the manipulation of vectors and matrices. It provides an elegant way to consider many simultaneous equations, visualize arbitrarily-many dimensions, and explain complex phenomena in simple terms.
 
 **Topics covered:**
 `Vector and matrix calculations`
@@ -145,7 +150,7 @@ Linear algebra is the mathematics of spatial relationships. It provides an elega
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | high school math
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites)
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra
 
 ### Probability & Statistics
@@ -158,11 +163,11 @@ Probability is the mathematics of uncertainty. Statistics is the mathematical fr
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Linear Algebra, Math for Computer Science
+[Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Math for Computer Science, Linear Algebra
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
 
 ### Introduction to Analysis
-Analysis is the mathematics of mathematics itself. Analysis makes extensive use of the formal proof to build important mathematical concepts from the ground up. Starting by proving the existence of real numbers, this course will show you how to create single-variable calculus entirely from scratch.
+Analysis is the mathematics of sequences and limits. Intro to Analysis is a course that builds on the concepts of Calculus and provides a rigorous and formalized study of the foundations of Calculus. This course will use formal proofs to establish mathematical results, starting by proving the existence of real numbers and building the foundation of single-variable Calculus from scratch.
 
 **Topics covered:**
 `Proofs`
@@ -174,7 +179,7 @@ Courses | Duration | Effort | Prerequisites
 [Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
 
 ### Introduction to Abstract Algebra
-Abstract algebra (occasionally called modern algebra) is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras. The term abstract algebra was coined in the early 20th century to distinguish this area of study from older parts of algebra, and more specifically from elementary algebra, the use of variables to represent numbers in computation and reasoning.
+Abstract algebra (occasionally called modern algebra) is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras. Abstract algebra was coined in the early 20th century to distinguish this area of study from older parts of algebra, more specifically from elementary algebra, using variables to represent numbers in computation and reasoning.
 
 **Topics covered:**
 `Group Theory`
@@ -182,22 +187,15 @@ Abstract algebra (occasionally called modern algebra) is the study of algebraic 
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Abstract Group theory](https://nptel.ac.in/courses/111106113) | 8 weeks | 8-10 hours/week |High school mathematics 
+[Introduction to Abstract Group theory](https://nptel.ac.in/courses/111106113) | 8 weeks | 8-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Introduction to Rings and Fields](https://nptel.ac.in/courses/111106131) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory
 
 
 ## Advanced Topics
 
-Once you've completed all courses in Core Mathematics, you are free to take elective courses in Advanced Topics, which include:
+Upon finishing **all the core mathematics courses**, students can choose to take elective courses in advanced topics of their choice. It is not necessary to take *every* course within a subcategory, but it is recommended to take courses relevant to the intended field of study.
 
-- Differential Equations
-- Mathematical Logic
-- Geometry
-- Probability and Statistics
-- Mathematical Analysis
-- Abstract Algebra
-
-To complete your study of Advanced Topics, complete both the Breadth requirement and the Depth requirement.
+To complete your study of Advanced Topics, meet both the Breadth and Depth requirements.
 
 - **Breadth Requirement:** For each of the 6 Advanced Topics below, select one course to take as an elective.
 - **Depth Requirement:** Select one Advanced Topic below and take 3 additional courses from that topic. 
@@ -218,8 +216,8 @@ Courses | Duration | Effort | Prerequisites
 ### Geometry and Topology
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | Set Theory, Mathematical Matturity in Algebra and Geometry
-[Euclidean plane and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 14 weeks | 4-6 hours/week | Elementary Set Theory, Calculus 1c, Linear Algebra
+[Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites), Set Theory, Knowledge of axiomatic branch of mathematics such as [Introduction to Abstract Algebra](#introduction-to-abstract-algebra) 
+[Euclidean plane and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 14 weeks | 4-6 hours/week | Elementary Set Theory, Calculus 1C, Linear Algebra
 [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 14 weeks | 14 hours/week | Multivariable Calculus
 [Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
 
@@ -239,7 +237,7 @@ After completing the requirements of the curriculum above, you will have complet
 
 What is next for you? The possibilities are boundless and overlapping:
 
-- Look for a job. Mathematicians go into careers as statisticians, financial analysts, actuaries and more!
+- Look for a job. Mathematicians go into careers as statisticians, financial analysts, actuaries, and more!
 - Join a local math club (e.g. via [meetup.com](https://www.meetup.com/)).
 - Pay attention to emerging ideas in mathematics by subscribing to a math journal or joining a professional math organization.
 
