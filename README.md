@@ -26,7 +26,7 @@ The courses themselves are among the very best in the world, often coming from H
 but specifically chosen to meet the following criteria.
 
 **Courses must**:
-- Match our [curricular guidelines](CURRICULAR_GUIDELINES.md) the 2015 CUPM Guide.
+- Match our [curricular guidelines](CURRICULAR_GUIDELINES.md), the 2015 CUPM Guide.
 - Be open for enrollment
 - Run regularly (ideally in self-paced format, otherwise running multiple times per year)
 - Be of high quality in teaching materials and pedagogical practice
@@ -109,8 +109,8 @@ Calculus is the study of change (differential calculus) and accumulation of quan
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites)
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | Calculus 1A 
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | Calculus 1B
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 15 weeks | 6-10 hours/week | Calculus 1A 
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) [alt](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 13 weeks | 6-10 hours/week | Calculus 1B
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
 
 ### Introduction to Differential Equations
@@ -203,8 +203,8 @@ To complete your study of Advanced Topics, meet both the Breadth and Depth requi
 ### Differential Equations
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems) | 8 weeks | 2-5 hours/week | Introduction to Differential Equations
-[Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst) | 12 weeks | 5-8 hours/week | Differential Equations 2x2 Systems, Linear Algebra
+[Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems) | 10 weeks | 2-5 hours/week | Introduction to Differential Equations
+[Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst) | 9 weeks | 5-8 hours/week | Differential Equations 2x2 Systems, Linear Algebra
 [Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial) | 11 weeks | 5-8 hours/week | Differential Equations: Linear Algebra and NxN Systems of Differential Equations
 [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) | 10 weeks | 3-6 hours/week | Introduction to Differential Equations 
 
