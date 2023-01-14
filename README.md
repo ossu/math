@@ -64,7 +64,7 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-The curriculum is separated into two parts:
+Check out our curricular guidelines [here](CURRICULAR_GUIDELINES.md).
 
 - [Core Mathematics](#core-mathematics)
   - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
