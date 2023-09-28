@@ -124,7 +124,7 @@ Differential equations describe the science of change: the route by which natura
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2) | 14 weeks | 3-6 hours/week | Calculus 1C
+[Introduction to Differential Equations](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.1x/) | 14 weeks | 3-6 hours/week | Calculus 1C
 
 ### Discrete Mathematics
 Discrete mathematics is the mathematics of objects and ideas. It includes topics such as combinatorics, graph theory, and logic. The topics discussed here also form the basis of the field of computer science. For mathematics majors, a discrete math course is usually also a first introduction to formal proofs. 
@@ -203,7 +203,7 @@ To complete your study of Advanced Topics, meet both the Breadth and Depth requi
 ### Differential Equations
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems) | 8 weeks | 2-5 hours/week | Introduction to Differential Equations
+[Differential Equations: 2x2 Systems](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.2x/) | 8 weeks | 2-5 hours/week | Introduction to Differential Equations
 [Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst) | 12 weeks | 5-8 hours/week | Differential Equations 2x2 Systems, Linear Algebra
 [Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial) | 11 weeks | 5-8 hours/week | Differential Equations: Linear Algebra and NxN Systems of Differential Equations
 [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) | 10 weeks | 3-6 hours/week | Introduction to Differential Equations 
