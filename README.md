@@ -218,6 +218,7 @@ Combinatorics, probability, statistics, game theory, applied stats
 
 ### Mathematical Analysis
 Real analysis, numerical analysis, complex analysis, optimization theory
+[Complex analysis](https://www.coursera.org/learn/complex-analysis) | 3 weeks | 9 hours/week | Calculus 1C, Real analysis
 
 ### Abstract Algebra
 Abstract algebra, category theory, algebraic geometry and topology
