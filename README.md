@@ -89,7 +89,7 @@ All classes under Core Mathematics are **required**, unless stated otherwise.
 
 ### Introduction to Mathematical Thinking
 Most people's views of mathematics are destroyed in school by focusing on memorization and regurgitation. But mathematicians see math as an elegant way to explain the world around us. This class covers how to think like a mathematician and solve problems. 
-
+Introduction To MATLAB Programming
 **Topics covered:**
 `Mathematical mindset`
 `Number Theory`
@@ -152,6 +152,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites)
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra
+[Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/) | 5 weeks | 5 hours/week | -
 
 ### Probability & Statistics
 Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
@@ -189,6 +190,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Abstract Group theory](https://nptel.ac.in/courses/111106113) | 8 weeks | 8-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
 [Introduction to Rings and Fields](https://nptel.ac.in/courses/111106131) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory
+[Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/) | 6 weeks | 6 hours/week | Introduction to Rings and Fields 
 
 
 ## Advanced Topics
@@ -204,6 +206,7 @@ To complete your study of Advanced Topics, meet both the Breadth and Depth requi
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
+[Graph Theory and Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/) | 5 weeks | 6 hours/week | Introduction to Formal Logic
 
 ### Geometry and Topology
 Courses | Duration | Effort | Prerequisites
@@ -214,9 +217,21 @@ Courses | Duration | Effort | Prerequisites
 [Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
 
 ### Probability and Statistics
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Game Theory 1](https://www.coursera.org/learn/game-theory-1) | 3 weeks | 5 hours/week | -
+[Game Theory 2](https://www.coursera.org/learn/game-theory-2) | 3 weeks | 5 hours/week | Game Theory 1 
+[Course on Information Theory, Pattern Recognition, and Neural Networks](https://videolectures.net/course_information_theory_pattern_recognition/) | 3 weeks | 6 hours/week | Probability 
+[Discrete Stochastic Processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/) | 3 weeks | 6 hours/week | Probability 
+
 Combinatorics, probability, statistics, game theory, applied stats
 
 ### Mathematical Analysis
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Complex analysis](https://www.coursera.org/learn/complex-analysis) | 3 weeks | 9 hours/week | Calculus 1C, Real analysis
+[Numerical Methods](https://www.coursera.org/learn/numerical-methods-engineers) | 6 weeks| 7 hours/week | Calculus 1C, Differential Equations, Linear Algebra
+
 Real analysis, numerical analysis, complex analysis, optimization theory
 
 ### Abstract Algebra
