@@ -1,9 +1,16 @@
-![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
+<div align="center">
+<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
 
-<h3 align="center">Open Source Society University</h3>
-<p align="center">
-  Path to a free self-taught education in Math!
+<h3>Open Source Society University</h3>
+<p>
+  :abacus: Path to a free self-taught education in Math!
 </p>
+<p>
+  <a href="https://github.com/open-source-society/math">
+    <img alt="Open Source Society University - Math" src="https://img.shields.io/badge/OSSU-math-blue.svg">
+  </a>
+</p>
+</div>
 
 # Contents
 
