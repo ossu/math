@@ -1,6 +1,6 @@
 # Curricular Guidelines
 
-[Committee on the Undergraduate Program in Mathematics Curriculum Guide](https://www.maa.org/node/790342)
+[Committee on the Undergraduate Program in Mathematics Curriculum Guide](https://maa.org/resource/cupm-guide/)
 
 The 2015 CUPM Curriculum Guide is prepared by the MAA’s Committee on the Undergraduate Program in Mathematics with the support of the Mathematical Association of America, the National Science Foundation DUE-1228636, the Educational Advancement Foundation, and the professional advice of more than 250 mathematicians and scientists in the community. The guide is written to help departments design and maintain robust math major programs.
 
