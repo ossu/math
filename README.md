@@ -221,13 +221,29 @@ Courses | Duration | Effort | Prerequisites
 [Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
 
 ### Probability and Statistics
-Combinatorics, probability, statistics, game theory, applied stats
+| Subtopic                 | Course / Book | Duration (Weeks) | Effort (Hours/Week) | Prerequisites |
+|--------------------------|--------------|------------------|---------------------|---------------|
+| **Combinatorics**        | *A Walk Through Combinatorics* - Miklós Bóna | 6-8 | 6-8 | Discrete Math |
+| **Probability**          | [Introduction to Probability - Blitzstein (Harvard)](https://projects.iq.harvard.edu/stat110/home) | 10 | 8-10 | Basic Calculus |
+| **Statistics**           | *All of Statistics* - Larry Wasserman | 12-14 | 6-10 | Probability, Linear Algebra |
+| **Game Theory**          | [Multiagent Systems - Shoham & Leyton-Brown (Stanford)](https://web.stanford.edu/~shoham/) | 8 | 6-8 | Probability, Basic Graph Theory |
+| **Applied Statistics**   | *The Elements of Statistical Learning* - Hastie, Tibshirani, Friedman | 14 | 10-12 | Linear Algebra, Probability |
 
 ### Mathematical Analysis
-Real analysis, numerical analysis, complex analysis, optimization theory
+| Subtopic                | Course / Book | Duration (Weeks) | Effort (Hours/Week) | Prerequisites |
+|-------------------------|--------------|------------------|---------------------|---------------|
+| **Real Analysis**       | *Principles of Mathematical Analysis* - Walter Rudin | 14 | 10-12 | Calculus 1-3, Linear Algebra |
+| **Numerical Analysis**  | *Numerical Linear Algebra* - Trefethen & Bau | 10 | 8-10 | Linear Algebra |
+| **Complex Analysis**    | *Visual Complex Analysis* - Tristan Needham | 10-12 | 6-8 | Basic Real Analysis |
+| **Optimization Theory** | [Convex Optimization - Boyd & Vandenberghe (Stanford)](https://web.stanford.edu/~boyd/cvxbook/) | 12 | 8-12 | Linear Algebra, Calculus, Probability |
 
 ### Abstract Algebra
-Abstract algebra, category theory, algebraic geometry and topology
+| Subtopic                  | Course / Book | Duration (Weeks) | Effort (Hours/Week) | Prerequisites |
+|---------------------------|--------------|------------------|---------------------|---------------|
+| **Abstract Algebra**      | *Abstract Algebra* - Dummit & Foote | 14 | 10-12 | Linear Algebra |
+| **Category Theory**       | *Category Theory for Scientists* - David Spivak | 10 | 6-8 | Abstract Algebra, Graph Theory |
+| **Algebraic Geometry**    | *Algebraic Geometry* - Robin Hartshorne | 16+ | 12+ | Abstract Algebra, Real & Complex Analysis |
+| **Algebraic Topology**    | *Algebraic Topology* - Allen Hatcher | 14 | 10-12 | Group Theory, Topology |
 
 
 ## Congratulations
