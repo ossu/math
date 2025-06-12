@@ -124,12 +124,14 @@ Differential equations describe the science of change: the route by which natura
 **Topics covered:**
 `First-order ODEs`
 `Second-order ODEs`
-`Higher-order ODEs`
-`Laplace Transforms`
+`Fourier Series`
+`The Laplace Transform`
+`Linear Systems of ODE’s`
+`Nonlinear Systems of ODE’s`
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | 14 weeks | 12 hours/week | Calculus 1C
+[Honors Differential Equations](https://ocw.mit.edu/courses/18-034-honors-differential-equations-spring-2004/) | 13 weeks | 10-15 hours/week | Calculus with Theory
 
 ### Discrete Mathematics
 Discrete mathematics is the mathematics of objects and ideas. It includes topics such as combinatorics, graph theory, and logic. The topics discussed here also form the basis of the field of computer science. For mathematics majors, a discrete math course is usually also a first introduction to formal proofs. 
