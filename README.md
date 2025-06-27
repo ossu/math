@@ -208,11 +208,13 @@ To complete your study of Advanced Topics, meet both the Breadth and Depth requi
 - **Depth Requirement:** Select one Advanced Topic below and take 3 additional courses from that topic.
 
 ### Mathematical Logic
+
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
 
 ### Geometry and Topology
+
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites), Set Theory, Knowledge of axiomatic branch of mathematics such as [Introduction to Abstract Algebra](#introduction-to-abstract-algebra) 
