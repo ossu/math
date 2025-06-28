@@ -20,7 +20,7 @@ Alternatively, you could [contribute](#CONTRIBUTING.md) an answer yourself.
 
 ### How can I review the math prerequisites?
 Many OSSU students choose to review math topics that they have not studied recently.
-OSSU recommends students use Khan Academy for such a review.
+OSSU recommends students use Khan Academy for such a review (and MIT Open Learning Library for the Calculus part).
 Below are links to topic assessments.
 After taking an assessment, you should have a clear idea what topics to study, and resources on Khan Academy to use.
 
@@ -30,8 +30,11 @@ After taking an assessment, you should have a clear idea what topics to study, a
 - [High School Math 1](https://www.khanacademy.org/math/math1#math1-subject-challenge)
 - [High School Math 2](https://www.khanacademy.org/math/math2#math2-subject-challenge)
 - [High School Math 3](https://www.khanacademy.org/math/math3#math3-subject-challenge)
+- [MIT's Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
+- [MIT's Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
+- [MIT's Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)
 
-(Math 1, 2, 3 covers all of algebra, pre-calculus, high school geometry, trig, stats. It interleaves the order of these topics.)
+(High School Math 1, 2, 3 covers all of algebra, pre-calculus, high school geometry, trig, stats. It interleaves the order of these topics.)
 
 ### In what order should I take the courses?
 

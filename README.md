@@ -115,10 +115,8 @@ Calculus is the study of change (differential calculus) and accumulation of quan
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites)
-[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | Calculus 1A 
-[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | Calculus 1B
-[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
+[Calculus with Theory](https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/) | 13 weeks | 10-15 hours/week | [Introduction to Mathematical Thinking](README.md#Introduction-to-Mathematical-Thinking) and [high school math](FAQ.md#how-can-i-review-the-math-prerequisites)
+[Multivariable Calculus with Theory](https://ocw.mit.edu/courses/18-024-multivariable-calculus-with-theory-spring-2011/) | 13 weeks | 10-15 hours/week | Calculus with Theory
 
 ### Introduction to Differential Equations
 Differential equations describe the science of change: the route by which natural and man-made systems move from one state to another. Epidemics, population growth, and weather patterns are all modeled using differential equations. It provides us a mathematical language to describe physical, chemical, and biological systems and their evolution.
@@ -126,12 +124,14 @@ Differential equations describe the science of change: the route by which natura
 **Topics covered:**
 `First-order ODEs`
 `Second-order ODEs`
-`Higher-order ODEs`
-`Laplace Transforms`
+`Fourier Series`
+`The Laplace Transform`
+`Linear Systems of ODE’s`
+`Nonlinear Systems of ODE’s`
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | 14 weeks | 12 hours/week | Calculus 1C
+[Honors Differential Equations](https://ocw.mit.edu/courses/18-034-honors-differential-equations-spring-2004/) | 13 weeks | 10-15 hours/week | Calculus with Theory
 
 ### Discrete Mathematics
 Discrete mathematics is the mathematics of objects and ideas. It includes topics such as combinatorics, graph theory, and logic. The topics discussed here also form the basis of the field of computer science. For mathematics majors, a discrete math course is usually also a first introduction to formal proofs. 
