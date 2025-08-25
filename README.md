@@ -102,7 +102,7 @@ Most people's views of mathematics are destroyed in school by focusing on memori
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
+[Introduction to Mathematical Thinking](https://archive.org/details/academictorrents_2b5e5cc8c7414bc3b0f6974190065bc8c2f629dc/lectures/supplementary_videos/Introduction+to+Mathematical+Thinking) | 10 weeks | 4 hours/week | none
 [LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none
 
 ### Calculus 
