@@ -172,6 +172,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Math for Computer Science, Linear Algebra
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
+[Extra resources](https://stat110.hsites.harvard.edu/youtube) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Math for Computer Science, Linear Algebra
 
 ### Introduction to Analysis
 Analysis is the mathematics of sequences and limits. Intro to Analysis is a course that builds on the concepts of Calculus and provides a rigorous and formalized study of the foundations of Calculus. This course will use formal proofs to establish mathematical results, starting by proving the existence of real numbers and building the foundation of single-variable Calculus from scratch.
