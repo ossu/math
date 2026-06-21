@@ -6,7 +6,7 @@
   :abacus: Path to a free self-taught education in Math!
 </p>
 <p>
-  <a href="https://github.com/open-source-society/math">
+  <a href="https://github.com/ossu/math">
     <img alt="Open Source Society University - Math" src="https://img.shields.io/badge/OSSU-math-blue.svg">
   </a>
 </p>
